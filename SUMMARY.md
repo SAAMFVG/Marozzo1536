@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Libro Primo](libro-primo.md)
-* Libro Secondo
-* Libro Terzo
-* Libro Quarto
+* [Libro Secondo](libro-secondo.md)
+* [Libro Terzo](libro-terzo.md)
+* [Libro Quarto](libro-quarto.md)
 * Libro Quinto
 
