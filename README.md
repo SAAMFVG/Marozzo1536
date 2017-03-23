@@ -1,8 +1,8 @@
 # ![](/assets/320px-Marozzo_1.png)
 
-# Opera Nova de Achille Marozzo Bolognese, mastro generale de l'arte de l'armi
+# OPERA NOVA DE ACHILLE MAROZZO BOLOGNESE, MASTRO GENERALE DE L'ARTE DE L'ARMI
 
-trascrizione dell'Opera Nova di Achille Marozzo, edizione del 1536.
+Trascrizione dell'Opera Nova di Achille Marozzo, edizione del 1536 a cura della ASD Sala d'Arme Achille Marozzo-Friuli Venezia-Giulia.
 
 ## Regole per la trascrizione
 
