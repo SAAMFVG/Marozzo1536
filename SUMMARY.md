@@ -1,6 +1,6 @@
-# Summary
+# Indice/Summary
 
-* [Introduction](README.md)
+* [Introduzione/Introduction](README.md)
 
 ## Libro Primo
 
